@@ -1,0 +1,5 @@
+
+Dep.Federal -2332, Dep.Estadual - 14123, Governador - 14, Presidente - 18
+Dep.Federal -1717, Dep.Estadual - 17123, Governador - 17, Presidente - 15
+Dep.Federal -2323, Dep.Estadual - 14123, Governador - 14, Presidente - 15
+Dep.Federal -1411, Dep.Estadual - 23231, Governador - 23, Presidente - 22
